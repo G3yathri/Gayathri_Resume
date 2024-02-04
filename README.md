@@ -3,8 +3,8 @@
 Bsc Agriculture
 
 ## Skills
-Manual Testing
-JMeter
+# Manual Testing
+# JMeter
 Test case authoring
 Manual Api Testing
 Basic Automation
