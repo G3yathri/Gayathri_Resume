@@ -2,7 +2,7 @@
 ## Contact 
 Email :uddagirigayathri7@gmail.com
 
-Mobile No :7842375705
+Mobile No :
 ## Education 
 Master's of Computer Application (MCA)
 Sikkim Manipal University
