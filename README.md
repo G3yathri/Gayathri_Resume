@@ -12,6 +12,7 @@ Lovely Professional University
 
 ## Skills
 Manual Testing,
+
 JMeter,
 Test case authoring,
 Manual Api Testing,
